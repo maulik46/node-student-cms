@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "myuser",
+    "password": "rootpassword",
+    "database": "student-cms",
+    "host": "mysql",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "myuser",
+    "password": "rootpassword",
+    "database": "database_production",
+    "host": "mysql",
+    "dialect": "mysql"
+  }
+}
